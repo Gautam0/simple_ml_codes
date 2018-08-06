@@ -5,4 +5,6 @@ This is my first ML program based on Iris dataset. I just copy and paste from th
 ## keras_first_network
 This is keras neural network code as the site shown. (https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 
-## tommorrow ( https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/ )
+
+## Thesis topic
+https://machinelearningmastery.com/memory-in-a-long-short-term-memory-network/
